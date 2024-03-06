@@ -20,7 +20,11 @@ const poems = [
     image: "redrose.webp"
   },
   {
-    author: "Madi",
+    author: "Yu",
+    poem: "Roses are red \n my day is bright",
+    image: "bee.jepg",
+  },
+  { author: "Madi",
     poem: "Roses are red \n Violets are blue \n Im not good at rhyming \n pretend this rhymes",
     image: "sleeping.jpeg",
   }
