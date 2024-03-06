@@ -5,7 +5,7 @@ const poems = [
     image: "sunflower.jpeg",
   },
   {
-    author: "Anvit",
+    author: "Yu",
     poem: "Roses are red \n Pizza sauce is too \n I ordered a large \n None of it is for you ",
     image: "pizza.jpeg",
   },
